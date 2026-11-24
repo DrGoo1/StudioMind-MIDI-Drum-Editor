@@ -1,4 +1,4 @@
-# StudioMind MIDI Drum Editor 0.2.17
+# StudioMind MIDI Drum Editor 0.2.18
 
 **User guide · macOS beta for Universal Audio LUNA**
 
@@ -6,8 +6,8 @@ StudioMind MIDI Drum Editor is a docked LUNA add-on for inspecting and editing d
 
 ## Install and open
 
-1. Use **LUNA 3.1.2 or newer**. This beta was tested on an Apple-silicon Mac with LUNA 3.1.2, build 4693. Windows and other configurations are not qualified.
-2. Open the **StudioMind MIDI Drum Editor 0.2.17.lunaaddon** file with LUNA. If it came in a ZIP, extract it first and open the individual `.lunaaddon` file. On a Mac’s first LUNA add-on install, LUNA may request administrator approval. If updating the regular StudioMind add-on, read the version and name in the **Replace** prompt before confirming.
+1. Use **LUNA 3.1.2 or newer**. This beta was tested on an Apple-silicon Mac with LUNA 3.1.2, build 4693. Version 0.2.18 adds the Umbo Gumbo logo and retains the 0.2.17 editing behavior. Windows and other configurations are not qualified.
+2. Open the **StudioMind MIDI Drum Editor 0.2.18.lunaaddon** file with LUNA. If it came in a ZIP, extract it first and open the individual `.lunaaddon` file. On a Mac’s first LUNA add-on install, LUNA may request administrator approval. If updating the regular StudioMind add-on, read the version and name in the **Replace** prompt before confirming.
 3. In LUNA’s **Timeline**, select a MIDI clip on an instrument track. Open **Add Ons → Editors → StudioMind MIDI Drum Editor**. The panel docks at the bottom of the Timeline and its own header says **Drum Grid**.
 4. Check the **Clip** menu and the clip/track name before editing. **Follow selection** tracks your LUNA selection; turn it off or choose a clip from **Clip** to work on a specific source. Try your first edits on a duplicate or disposable clip.
 
